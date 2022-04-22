@@ -1,0 +1,20 @@
+.value{
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    margin-left: 5px;
+    border: 2px solid #000;
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.no-value{
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    margin-left: 5px;
+    font-size: 32px;
+    font-weight: bolder;
+    border: 2px solid #e5e7eb;
+    color: white;
+}
